@@ -1,2 +1,2 @@
 # ReactNative_EmojiState
-Emoji State
+Emoji State_ClassComponent
